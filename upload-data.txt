@@ -1,0 +1,4 @@
+1   010115100132 | Nurul Izati Balqis | 102 | 123 | ADMIN |
+2   060719100123 | Ezam | 103 | 123 | ADMIN |
+3   070611100482 | Zulhaziq | 104 | 123 | AHLI BIASA |
+4   071117100143 | Naqiuddin Hadif | 101 | 123 | AHLI BIASA |
